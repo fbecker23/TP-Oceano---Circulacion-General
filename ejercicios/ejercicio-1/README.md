@@ -1,7 +1,7 @@
 1) En base a los contenidos desarrollados durante la materia:
-  a) Definir el fenómeno ENSO y explicar cómo varía la circulación atmosférica y sus características hidrográficas durante las distintas fases (El Niño, La Niña y condiciones neutras)
-  b) Describir los índices más utilizados para su monitoreo: SOI (Southern Oscillation Index), ONI (Oceanic Niño Index), Anomalías de TSM en la región Niño 3.4
-  c) ¿Cuáles son sus principales consecuencias a escala global?
+  - Definir el fenómeno ENSO y explicar cómo varía la circulación atmosférica y sus características hidrográficas durante las distintas fases (El Niño, La Niña y condiciones neutras)
+  -  Describir los índices más utilizados para su monitoreo: SOI (Southern Oscillation Index), ONI (Oceanic Niño Index), Anomalías de TSM en la región Niño 3.4
+  -   ¿Cuáles son sus principales consecuencias a escala global?
 
 
 2) Descargar de la página de la NOAA las series temporales mensuales desde 1990 hasta 2025 de: Índice ONI (https://www.ncei.noaa.gov/access/monitoring/enso/sst), Anomalías de temperatura superficial del mar en la región Niño 3.4 y el Índice SOI (https://www.ncei.noaa.gov/access/monitoring/enso/soi)
